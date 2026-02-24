@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Factura
+comment1.params=total
+comment1.target=void\ generar(double)
+numComments=2

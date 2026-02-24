@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pedido
+comment1.params=carrito
+comment1.target=Pedido(Carrito)
+comment2.params=descuento
+comment2.target=void\ aplicarDescuento(Descuento)
+comment3.params=pago
+comment3.target=void\ procesarPago(Pago)
+numComments=4

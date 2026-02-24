@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ItemCarrito
+comment1.params=producto\ cantidad
+comment1.target=ItemCarrito(Producto,\ int)
+comment2.params=
+comment2.target=double\ calcularSubtotal()
+numComments=3

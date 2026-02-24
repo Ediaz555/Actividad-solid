@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DescuentoPorcentaje
+comment1.params=porcentaje
+comment1.target=DescuentoPorcentaje(double)
+comment2.params=total
+comment2.target=double\ aplicar(double)
+numComments=3
