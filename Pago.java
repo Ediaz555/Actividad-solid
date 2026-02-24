@@ -1,4 +1,5 @@
-
-public interface Pago{
-   
+public interface Pago {
+    void pagar(double monto);
+    String obtenerTipo();
+    void generarComprobante();
 }
